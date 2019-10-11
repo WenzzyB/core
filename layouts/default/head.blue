@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>{BCtitle}</title>
+	<link rel="stylesheet" href="{BClayout}/desgin/styles/global.css">
+</head>

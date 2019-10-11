@@ -1,0 +1,18 @@
+<body>
+	<header>
+		<div class="header-container">
+			<div class="logo">
+				<h2>Супер-сайт</h2>
+			</div>
+			<nav class="header-menu">
+				<ul>
+					<li><a href="#">Главная</a></li>
+					<li><a href="#">Магазин</a></li>
+					<li><a href="#">Контакты</a></li>
+					<li><a href="#">О нас</a></li>
+					<li><a href="#">Обратная связь</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+</body>

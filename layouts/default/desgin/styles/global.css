@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+	width: 100%;
+	min-height: 250px;
+	height: 300px;
+}
+.header-container {
+	background-color: wheat;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+.header-container > .logo {
+	color: darkblue;
+	height: 60px;
+	font-size: 1.01rem;
+
+	display: flex;
+	justify-content: center;
+}
+.header-menu, .header-menu a {
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	
+}
+nav.header-menu > ul {
+	list-style: none;
+}
